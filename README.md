@@ -7,4 +7,3 @@ Here are tasks referred to:
 - Streams
 - Reflections
 
-Repository contains final project with stock price of crypto currencies analysys!
